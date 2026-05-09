@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="500" viewBox="0 0 680 500">
+<rect width="680" height="500" fill="#e5d8b7"/><rect x="25" y="25" width="630" height="450" fill="none" stroke="#24180e" stroke-width="5"/>
+<text x="340" y="63" text-anchor="middle" font-family="Georgia,serif" font-size="31" fill="#24180e">LIME KILN CUTAWAY / NOT FOR PERMITS</text>
+<path d="M220 420 L270 120 H410 L462 420Z" fill="#b9aa87" stroke="#21170f" stroke-width="5"/><path d="M285 160 H395 L420 392 H260Z" fill="#31251a" opacity=".82"/><ellipse cx="340" cy="120" rx="70" ry="18" fill="#86765c" stroke="#21170f" stroke-width="4"/><path d="M298 398 c8 -55 76 -55 84 0" fill="#cf7534" stroke="#21170f" stroke-width="4"/><path d="M324 396 c5 -31 28 -47 38 -2" fill="#f4cf62"/>
+<g font-family="Courier New,monospace" font-size="16" fill="#21170f"><text x="70" y="140">feed: limestone + patience</text><path d="M248 135 H95" stroke="#21170f"/><text x="475" y="210">draw hole</text><path d="M440 235 H550" stroke="#21170f"/><text x="62" y="318">ash pit remembers shoes</text><path d="M262 352 H112" stroke="#21170f"/><text x="448" y="354">warm wall: good for maps</text><path d="M430 340 H608" stroke="#21170f"/></g>
+<g fill="#6b1e15" opacity=".85"><circle cx="300" cy="190" r="8"/><circle cx="368" cy="252" r="6"/><circle cx="329" cy="316" r="7"/><circle cx="392" cy="181" r="5"/></g>
+<text x="62" y="455" font-family="Courier New,monospace" font-size="14" fill="#6b1e15">Survey note: heat turns stone into powder, and records into rumors.</text>
+</svg>

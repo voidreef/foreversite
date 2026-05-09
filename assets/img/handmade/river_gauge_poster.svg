@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="720" viewBox="0 0 520 720">
+<rect width="520" height="720" fill="#efe2b6"/><rect x="28" y="28" width="464" height="664" fill="none" stroke="#22170b" stroke-width="6"/>
+<text x="260" y="78" text-anchor="middle" font-family="Georgia,serif" font-size="36" fill="#1d170e">RIVER GAUGE</text><text x="260" y="112" text-anchor="middle" font-family="Courier New,monospace" font-size="16" fill="#6b1e15">FOR KITCHEN TABLE FLOOD CONDITIONS</text>
+<rect x="95" y="150" width="90" height="460" fill="#d8d0aa" stroke="#1b1209" stroke-width="4"/><g font-family="Courier New,monospace" font-size="18" fill="#1b1209" stroke="#1b1209"><path d="M95 560h90M95 510h64M95 460h90M95 410h64M95 360h90M95 310h64M95 260h90M95 210h64"/><text x="198" y="566">0: dry table</text><text x="198" y="466">2: saucer lift</text><text x="198" y="366">4: drawer tide</text><text x="198" y="266">6: mail floats</text><text x="198" y="216">7: evacuate bread</text></g>
+<path d="M96 510 C150 490 180 535 236 515 S340 480 421 520 V612 H96Z" fill="#326b78" opacity=".85"/><path d="M96 510 C150 490 180 535 236 515 S340 480 421 520" fill="none" stroke="#e9ffff" stroke-width="4" stroke-dasharray="14 10"/>
+<g fill="#6b1e15"><path d="M352 148 l58 45 l-24 35 l-62 -44z"/><circle cx="380" cy="182" r="9"/></g><text x="322" y="250" font-family="Georgia,serif" font-size="20" fill="#6b1e15">red tack marks highest known soup</text>
+<text x="60" y="652" font-family="Courier New,monospace" font-size="14" fill="#1b1209">Filed by: Bureau of Low Water, drawer C. Read at eye level.</text>
+</svg>

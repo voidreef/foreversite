@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+<rect width="760" height="420" fill="#d9c99b"/><filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".018" numOctaves="3"/><feColorMatrix values="0 0 0 0 .48 0 0 0 0 .40 0 0 0 0 .25 0 0 0 .24 0"/></filter><rect width="760" height="420" filter="url(#n)"/>
+<path d="M80 70 C180 30 210 100 305 72 S470 34 520 110 650 120 680 210 585 330 475 290 350 365 252 308 135 325 95 235 25 135 80 70Z" fill="#b7b36f" stroke="#352a17" stroke-width="6"/>
+<path d="M128 112 C214 142 224 210 286 222 S391 190 438 235 574 238 625 188" fill="none" stroke="#2d6277" stroke-width="14" opacity=".8"/>
+<path d="M128 112 C214 142 224 210 286 222 S391 190 438 235 574 238 625 188" fill="none" stroke="#dbe9df" stroke-width="3" stroke-dasharray="9 12"/>
+<g font-family="Courier New,monospace" font-size="18" fill="#21170e"><text x="105" y="90">MISSING BAY</text><text x="440" y="120" transform="rotate(7 440 120)">STOVE ROAD</text><text x="255" y="330">COUNTY OF LINT</text><text x="518" y="276" transform="rotate(-9 518 276)">FALSE BRIDGE</text></g>
+<g stroke="#6b1e15" stroke-width="4" fill="none"><path d="M205 126 l20 35 l-28 20 l-19 -34z"/><path d="M505 180 l48 10 l-14 40 l-51 -18z"/><path d="M360 92 l40 -12 l22 32 l-42 18z"/></g>
+<g fill="#3b2414"><circle cx="205" cy="126" r="7"/><circle cx="505" cy="180" r="7"/><circle cx="360" cy="92" r="7"/><circle cx="300" cy="250" r="7"/></g>
+<path d="M40 365 H210" stroke="#23170d" stroke-width="4"/><path d="M40 365 v-12 M74 365 v-8 M108 365 v-12 M142 365 v-8 M176 365 v-12 M210 365 v-8" stroke="#23170d" stroke-width="3"/><text x="38" y="392" font-family="Courier New,monospace" font-size="15" fill="#23170d">scale: one thumb = three errands</text>
+<text x="560" y="385" font-family="Georgia,serif" font-size="24" fill="#6b1e15">FLOORCLOTH No. 2</text>
+</svg>
