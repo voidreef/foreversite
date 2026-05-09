@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="450" viewBox="0 0 700 450">
+<title>sketch of outfall 17 flap gate</title>
+<rect width="700" height="450" fill="#c8d3c0"/>
+<path d="M0 310 C132 280 231 330 370 302 S568 277 700 312 L700 450 L0 450z" fill="#536f6f"/>
+<path d="M0 336 C150 310 246 352 370 326 S560 312 700 340" fill="none" stroke="#d6e7df" stroke-width="3" opacity=".7"/>
+<path d="M96 78 L604 102 L572 316 L136 296z" fill="#8c8170" stroke="#29231c" stroke-width="8"/>
+<ellipse cx="350" cy="206" rx="120" ry="92" fill="#151c1d" stroke="#504735" stroke-width="12"/>
+<path d="M350 118 L350 294" stroke="#6e5b43" stroke-width="8"/><path d="M239 206 H461" stroke="#6e5b43" stroke-width="8"/>
+<g font-family="Courier New, monospace" fill="#201812"><text x="118" y="56" font-size="24">OUTFALL 17 - FLAP GATE / LOW TIDE ONLY</text><text x="416" y="382" font-size="18">rusted hinge pin visible at noon</text></g>
+<g fill="#bda66b"><circle cx="174" cy="129" r="8"/><circle cx="529" cy="143" r="8"/><circle cx="152" cy="264" r="8"/><circle cx="546" cy="275" r="8"/></g>
+<path d="M71 367 l52-34 11 23 45-45" fill="none" stroke="#3f4d37" stroke-width="8"/>
+</svg>

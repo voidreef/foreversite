@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="420" viewBox="0 0 650 420">
+  <rect width="650" height="420" fill="#d7edf0"/>
+  <rect x="38" y="28" width="574" height="344" rx="8" fill="#f8fbf2" stroke="#1e5663" stroke-width="6"/>
+  <path d="M74 74h500M74 139h500M74 204h500M74 269h500M205 74v260M405 74v260" stroke="#8bb7bd" stroke-width="3"/>
+  <g font-family="Courier New,monospace" font-size="18" fill="#132f35">
+    <text x="86" y="113">SQUID ENDS</text><text x="225" y="113">2 LB</text><text x="424" y="113">MAY 6</text>
+    <text x="86" y="178">CLAM NECKS</text><text x="225" y="178">TIN</text><text x="424" y="178">NOON</text>
+    <text x="86" y="243">MACKEREL</text><text x="225" y="243">7 PC</text><text x="424" y="243">BELL</text>
+    <text x="86" y="308">EEL RAGS</text><text x="225" y="308">BAG</text><text x="424" y="308">KEEP</text>
+  </g>
+  <rect x="430" y="31" width="128" height="45" fill="#df4e42" stroke="#692219" transform="rotate(-4 430 31)"/>
+  <text x="446" y="60" font-family="Georgia,serif" font-size="18" fill="#fff5d4">DO NOT</text>
+  <text x="85" y="398" font-family="Georgia,serif" font-size="15" fill="#31535a">freezer hum recorded as 58 cycles, except during ferry arrival</text>
+</svg>

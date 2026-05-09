@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 240" role="img" aria-labelledby="t d">
+<title id="t">copier error code strip</title><desc id="d">A service strip listing strange copier error codes beside tiny indicator lights and rubber stamp marks.</desc>
+<rect width="700" height="240" fill="#f5f0d8"/>
+<rect x="40" y="34" width="620" height="172" fill="#111" stroke="#111" stroke-width="6"/>
+<g font-family="Courier New, monospace" font-size="24" fill="#88ff8e"><text x="66" y="78">E-13  TONER DUSK LOW</text><text x="66" y="116">C-04  ORIGINAL TOO ORIGINAL</text><text x="66" y="154">J-22  PAPER SAW ITSELF</text><text x="66" y="192">F-00  CALL NIGHT CLERK</text></g>
+<g><circle cx="590" cy="69" r="12" fill="#61d46d"/><circle cx="590" cy="108" r="12" fill="#d6563c"/><circle cx="590" cy="147" r="12" fill="#d6c13c"/><circle cx="590" cy="186" r="12" fill="#30404d"/></g>
+<g transform="rotate(-8 515 25)" fill="none" stroke="#b22525" stroke-width="4"><rect x="468" y="9" width="116" height="35" rx="4"/><text x="482" y="34" font-family="Courier New, monospace" font-size="22" fill="#b22525" stroke="none">VOID JAM</text></g>
+</svg>

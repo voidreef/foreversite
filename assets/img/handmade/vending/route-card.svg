@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="500" viewBox="0 0 780 500">
+<title>route driver clipboard card</title>
+<rect width="780" height="500" fill="#243028"/>
+<rect x="110" y="28" width="560" height="438" rx="10" fill="#c99558" stroke="#110d08" stroke-width="6"/>
+<rect x="145" y="70" width="490" height="350" fill="#f4e7bd" stroke="#4b2e18" stroke-width="3"/>
+<rect x="312" y="38" width="156" height="48" rx="14" fill="#6b6f64" stroke="#110d08" stroke-width="5"/>
+<g font-family="Courier New, monospace" fill="#2d2114"><text x="168" y="112" font-size="24" font-weight="bold">ROUTE DRIVER CARD 7B</text><text x="170" y="137" font-size="13">machine beside employee elevator, south wall, outlet shared with radio</text></g>
+<g stroke="#83623c" stroke-width="2"><path d="M166 166h444M166 207h444M166 248h444M166 289h444M166 330h444M166 371h444"/><path d="M300 152v250M430 152v250"/></g>
+<g font-family="Courier New, monospace" font-size="16" fill="#2d2114"><text x="176" y="191">08:10</text><text x="315" y="191">coins heavy</text><text x="444" y="191">wipe chute</text><text x="176" y="232">08:22</text><text x="315" y="232">A2 low</text><text x="444" y="232">spiral skips once</text><text x="176" y="273">08:28</text><text x="315" y="273">note inside</text><text x="444" y="273">return to file</text><text x="176" y="314">08:41</text><text x="315" y="314">lamp buzz</text><text x="444" y="314">not urgent</text><text x="176" y="355">08:57</text><text x="315" y="355">door sticks</text><text x="444" y="355">lift, then swear</text></g>
+<path d="M528 393c32-45 65-44 82 0" fill="none" stroke="#71351f" stroke-width="4"/>
+<text x="495" y="447" font-family="Georgia, serif" font-size="19" fill="#2d2114">signature: M. Bell / rainy shoes</text>
+</svg>

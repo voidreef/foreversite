@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="520" viewBox="0 0 760 520">
+<title>expiration sticker sheet with route markings</title>
+<rect width="760" height="520" fill="#f1e8c8"/>
+<g font-family="Courier New, monospace" fill="#332516"><text x="45" y="58" font-size="25" font-weight="bold">STICKER SHEET, FOUND BEHIND LOWER HINGE</text><text x="47" y="82" font-size="13">adhesive weak; dates strong; do not trust orange ink after rain</text></g>
+<g transform="translate(54 116)" font-family="Courier New, monospace" font-weight="bold" text-anchor="middle">
+<g><rect width="132" height="60" fill="#ffef8a" stroke="#4c3b20" stroke-width="3" rx="8"/><text x="66" y="26" font-size="15">PULL BY</text><text x="66" y="47" font-size="22">MAY 12</text></g>
+<g transform="translate(164 0) rotate(-2)"><rect width="132" height="60" fill="#f7a65d" stroke="#4c3b20" stroke-width="3" rx="8"/><text x="66" y="26" font-size="15">CHECK</text><text x="66" y="47" font-size="22">CORNERS</text></g>
+<g transform="translate(328 0) rotate(2)"><rect width="132" height="60" fill="#c9e8ad" stroke="#4c3b20" stroke-width="3" rx="8"/><text x="66" y="26" font-size="15">ROUTE 4</text><text x="66" y="47" font-size="22">TUES</text></g>
+<g transform="translate(492 0)"><rect width="132" height="60" fill="#f4d7df" stroke="#4c3b20" stroke-width="3" rx="8"/><text x="66" y="26" font-size="15">ODOR OK</text><text x="66" y="47" font-size="22">???</text></g>
+<g transform="translate(76 112) rotate(3)"><rect width="132" height="60" fill="#b8d8ff" stroke="#4c3b20" stroke-width="3" rx="8"/><text x="66" y="26" font-size="15">VEND BY</text><text x="66" y="47" font-size="22">JUN 03</text></g>
+<g transform="translate(240 112)"><rect width="132" height="60" fill="#f7efef" stroke="#4c3b20" stroke-width="3" rx="8"/><text x="66" y="26" font-size="15">MYSTERY</text><text x="66" y="47" font-size="22">ROW B</text></g>
+<g transform="translate(404 112) rotate(-3)"><rect width="132" height="60" fill="#e1c7ff" stroke="#4c3b20" stroke-width="3" rx="8"/><text x="66" y="26" font-size="15">DO NOT</text><text x="66" y="47" font-size="22">DATE</text></g>
+</g>
+<path d="M48 376c145-20 239 19 378-9 106-22 176 6 288-11" fill="none" stroke="#ad9273" stroke-width="4"/>
+<text x="54" y="430" font-family="Georgia, serif" font-size="21" fill="#332516">field rule: if the sticker curls like a shaving, rotate stock before arguing with it.</text>
+</svg>

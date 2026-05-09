@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330">
+<rect width="760" height="330" fill="#171814"/><rect x="24" y="28" width="712" height="274" fill="#2d281d" stroke="#d3aa55" stroke-width="5"/>
+<g font-family="monospace" fill="#f6dfa4" font-size="18"><text x="48" y="62">PAY STATION EXCHANGE BOARD - BAY 4</text><text x="520" y="62">LOCAL: 5¢</text></g>
+<g stroke="#111" stroke-width="3" fill="#9b2f28"><circle cx="80" cy="106" r="16"/><circle cx="145" cy="106" r="16"/><circle cx="210" cy="106" r="16"/><circle cx="275" cy="106" r="16"/><circle cx="340" cy="106" r="16"/><circle cx="405" cy="106" r="16"/><circle cx="470" cy="106" r="16"/><circle cx="535" cy="106" r="16"/><circle cx="600" cy="106" r="16"/><circle cx="665" cy="106" r="16"/></g>
+<g stroke="#caa05b" stroke-width="8" fill="none"><path d="M80 182 C155 260 260 160 340 230 S505 150 665 235"/><path d="M145 182 C190 125 310 125 405 190"/><path d="M275 182 C330 285 470 285 600 182"/></g>
+<g fill="#0b0b0b" stroke="#edd28a" stroke-width="2"><rect x="57" y="154" width="46" height="31"/><rect x="122" y="154" width="46" height="31"/><rect x="252" y="154" width="46" height="31"/><rect x="382" y="154" width="46" height="31"/><rect x="577" y="154" width="46" height="31"/><rect x="642" y="154" width="46" height="31"/></g>
+<g font-family="monospace" fill="#d8c28c" font-size="12"><text x="52" y="288">cords tagged by booth, not by person. keep names off the board.</text><text x="52" y="124">312</text><text x="117" y="124">417</text><text x="247" y="124">909</text><text x="377" y="124">114</text><text x="572" y="124">006</text><text x="637" y="124">118</text></g>
+</svg>

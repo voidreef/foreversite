@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="320" viewBox="0 0 700 320">
+  <rect width="700" height="320" fill="#d7d0bd"/>
+  <g opacity=".72" fill="#f5f1e7" stroke="#9d927e">
+    <rect x="40" y="42" width="620" height="70"/><rect x="40" y="125" width="620" height="70"/><rect x="40" y="208" width="620" height="70"/>
+  </g>
+  <g fill="#1c1a17" opacity=".85">
+    <rect x="58" y="55" width="80" height="44"/><rect x="151" y="55" width="80" height="44"/><rect x="244" y="55" width="80" height="44"/><rect x="337" y="55" width="80" height="44"/><rect x="430" y="55" width="80" height="44"/><rect x="523" y="55" width="80" height="44"/>
+    <rect x="58" y="138" width="80" height="44"/><rect x="151" y="138" width="80" height="44"/><rect x="244" y="138" width="80" height="44"/><rect x="337" y="138" width="80" height="44"/><rect x="430" y="138" width="80" height="44"/><rect x="523" y="138" width="80" height="44"/>
+    <rect x="58" y="221" width="80" height="44"/><rect x="151" y="221" width="80" height="44"/><rect x="244" y="221" width="80" height="44"/><rect x="337" y="221" width="80" height="44"/><rect x="430" y="221" width="80" height="44"/><rect x="523" y="221" width="80" height="44"/>
+  </g>
+  <g font-family="Courier New, monospace" font-size="14" fill="#6d3828">
+    <text x="44" y="28">PERGAMINE SLEEVE — pencil only — emulsion faces away from thumb</text>
+    <text x="611" y="296">binder 2 / tab C</text>
+  </g>
+</svg>

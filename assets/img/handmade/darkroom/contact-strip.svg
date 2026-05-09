@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260">
+  <rect width="720" height="260" fill="#12110f"/>
+  <rect x="18" y="22" width="684" height="216" rx="6" fill="#0a0a09" stroke="#b98b5b" stroke-width="2"/>
+  <g fill="#050505" stroke="#6c5a48" stroke-width="2">
+    <rect x="45" y="52" width="92" height="132"/><rect x="154" y="52" width="92" height="132"/><rect x="263" y="52" width="92" height="132"/>
+    <rect x="372" y="52" width="92" height="132"/><rect x="481" y="52" width="92" height="132"/><rect x="590" y="52" width="92" height="132"/>
+  </g>
+  <g fill="#1d1d1a" opacity=".92">
+    <circle cx="83" cy="91" r="19"/><path d="M62 159c20-46 42-45 57 0z"/>
+    <path d="M169 70h62v94h-62z"/><circle cx="201" cy="117" r="18" fill="#080807"/>
+    <path d="M277 160l62-92M276 69l63 91" stroke="#2b2924" stroke-width="15"/>
+    <rect x="390" y="75" width="56" height="76" fill="#28231f"/><path d="M397 82h42v18h-42z" fill="#0c0c0b"/>
+    <path d="M498 146c14-43 36-49 58-2" stroke="#373027" stroke-width="18" fill="none"/>
+    <circle cx="635" cy="99" r="28" fill="#2e2b25"/><rect x="613" y="133" width="46" height="24"/>
+  </g>
+  <g font-family="Courier New, monospace" font-size="15" fill="#caa77a">
+    <text x="46" y="209">12A</text><text x="155" y="209">12B</text><text x="264" y="209">12C</text><text x="373" y="209">12D</text><text x="482" y="209">12E</text><text x="591" y="209">12F</text>
+    <text x="45" y="38">CONTACT: roll 7 / kitchen window / 1:1.5 / 12 sec</text>
+  </g>
+</svg>

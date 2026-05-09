@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="260" viewBox="0 0 820 260">
+<rect width="820" height="260" fill="#1b211a"/><g transform="translate(26 24)">
+<rect width="220" height="212" fill="#eee7c8" stroke="#111" stroke-width="3"/><rect x="274" width="220" height="212" fill="#e5dfc0" stroke="#111" stroke-width="3"/><rect x="548" width="220" height="212" fill="#efe8c9" stroke="#111" stroke-width="3"/>
+<g font-family="Georgia" fill="#17130c"><text x="14" y="34" font-size="28">RIVER EDITION</text><text x="288" y="34" font-size="24">FERRY DELAYED</text><text x="562" y="34" font-size="24">MARKET NOTES</text></g>
+<g stroke="#2a251b" stroke-width="2"><path d="M16 52h188M16 62h188M16 72h188M16 82h124M16 106h188M16 116h188M16 126h188M16 136h90"/><path d="M290 52h176M290 62h176M290 72h150M290 96h176M290 106h176M290 116h120M290 146h176M290 156h176M290 166h144"/><path d="M564 52h176M564 62h176M564 72h132M564 98h176M564 108h176M564 118h176M564 128h104M564 154h176M564 164h156"/></g>
+<rect x="40" y="154" width="92" height="38" fill="#17130c"/><rect x="354" y="126" width="52" height="52" fill="none" stroke="#17130c" stroke-width="5"/><circle cx="657" cy="139" r="30" fill="none" stroke="#17130c" stroke-width="5"/>
+</g><g opacity=".24" stroke="#bff2a8"><path d="M0 22h820M0 238h820"/><path d="M18 0v260M802 0v260"/></g>
+</svg>

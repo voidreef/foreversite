@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="500" viewBox="0 0 820 500">
+<title>product spiral rack plan</title>
+<rect width="820" height="500" fill="#263039"/>
+<rect x="26" y="24" width="768" height="452" fill="#d5e0df" stroke="#111" stroke-width="5"/>
+<g font-family="Courier New, monospace" fill="#111"><text x="48" y="61" font-size="26" font-weight="bold">SPIRAL SHELF MAP / AUGER MEMORY</text><text x="50" y="86" font-size="13">all coils drawn by hand because manufacturer diagram was mostly coffee</text></g>
+<g transform="translate(64 128)" stroke="#202729" stroke-width="5" fill="none">
+<path d="M0 0h676M0 88h676M0 176h676M0 264h676"/>
+<path d="M0 0v264M169 0v264M338 0v264M507 0v264M676 0v264"/>
+</g>
+<g fill="none" stroke="#772b1a" stroke-width="4">
+<path d="M94 168c24-37 64-37 88 0s64 37 88 0"/><path d="M263 168c24-37 64-37 88 0s64 37 88 0"/><path d="M432 168c24-37 64-37 88 0s64 37 88 0"/><path d="M601 168c24-37 64-37 88 0s64 37 88 0"/>
+<path d="M94 256c24-37 64-37 88 0s64 37 88 0"/><path d="M263 256c24-37 64-37 88 0s64 37 88 0"/><path d="M432 256c24-37 64-37 88 0s64 37 88 0"/><path d="M601 256c24-37 64-37 88 0s64 37 88 0"/>
+<path d="M94 344c24-37 64-37 88 0s64 37 88 0"/><path d="M263 344c24-37 64-37 88 0s64 37 88 0"/><path d="M432 344c24-37 64-37 88 0s64 37 88 0"/><path d="M601 344c24-37 64-37 88 0s64 37 88 0"/>
+</g>
+<g font-family="Courier New, monospace" font-size="16" fill="#111"><text x="87" y="124">A1 pretzels</text><text x="257" y="124">A2 crackers</text><text x="426" y="124">A3 gum</text><text x="595" y="124">A4 blank</text><text x="88" y="452">note: C3 throws forward when shelf is cold; shim with envelope flap.</text></g>
+</svg>

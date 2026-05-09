@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="520" viewBox="0 0 760 520">
+<title>coin return archaeology drawer strata</title>
+<rect width="760" height="520" fill="#191613"/>
+<rect x="30" y="30" width="700" height="460" fill="#bba174" stroke="#e2cf9a" stroke-width="6"/>
+<g font-family="Courier New, monospace" fill="#24180d">
+<text x="55" y="68" font-size="24" font-weight="bold">COIN RETURN EXCAVATION - TRENCH B</text>
+<text x="56" y="91" font-size="13">drawer shaken over butcher paper, Tuesday route, entries numbered left to right</text>
+</g>
+<g stroke="#4b351c" stroke-width="2">
+<path d="M55 132h650"/><path d="M55 198h650"/><path d="M55 269h650"/><path d="M55 350h650"/><path d="M55 423h650"/>
+</g>
+<g font-family="Georgia, serif" font-size="15" fill="#2d1f13">
+<text x="62" y="158">Layer I: current nickels, one bus token filed as local mineral.</text>
+<text x="62" y="225">Layer II: flattened gum foil, copper ghost rings, price-change chad.</text>
+<text x="62" y="297">Layer III: paper cup rim, arcade slug, button reading LUCKY DAY.</text>
+<text x="62" y="380">Layer IV: 1978 dime under cola syrup varnish; remove with patience.</text>
+<text x="62" y="453">Layer V: black dust, four seeds, apology note folded smaller than a cent.</text>
+</g>
+<g fill="none" stroke="#24180d" stroke-width="3">
+<circle cx="612" cy="147" r="22"/><circle cx="650" cy="214" r="18"/><ellipse cx="590" cy="287" rx="35" ry="14" transform="rotate(-19 590 287)"/><circle cx="642" cy="379" r="20"/><rect x="568" y="435" width="91" height="24" transform="rotate(-6 568 435)"/>
+</g>
+<g fill="#6a1712" font-family="Courier New, monospace" font-size="12"><text x="650" y="154">C-1</text><text x="669" y="218">C-4</text><text x="618" y="282">foil</text><text x="663" y="383">DIME</text><text x="593" y="453">NOTE</text></g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+<rect width="760" height="420" fill="#30251b"/><g transform="translate(34 28)">
+<g fill="#b8924d" stroke="#17100b" stroke-width="4"><rect width="320" height="90"/><rect x="370" width="320" height="90"/><rect y="136" width="320" height="90"/><rect x="370" y="136" width="320" height="90"/><rect y="272" width="320" height="90"/><rect x="370" y="272" width="320" height="90"/></g>
+<g fill="#ead8a8" stroke="#17100b" stroke-width="2"><rect x="36" y="24" width="248" height="42"/><rect x="406" y="24" width="248" height="42"/><rect x="36" y="160" width="248" height="42"/><rect x="406" y="160" width="248" height="42"/><rect x="36" y="296" width="248" height="42"/><rect x="406" y="296" width="248" height="42"/></g>
+<g font-family="Courier New" fill="#25170d"><text x="54" y="52" font-size="24">C7  CITY PAPERS</text><text x="424" y="52" font-size="24">D2  TAX MAPS</text><text x="54" y="188" font-size="24">F1  BIRTHS</text><text x="424" y="188" font-size="24">H4  WEATHER</text><text x="54" y="324" font-size="24">J9  UNKNOWN</text><text x="424" y="324" font-size="24">K3  REPAIR</text></g>
+<g stroke="#5b3b1d" stroke-width="7" fill="none"><path d="M137 78h46M507 78h46M137 214h46M507 214h46M137 350h46M507 350h46"/></g>
+</g></svg>

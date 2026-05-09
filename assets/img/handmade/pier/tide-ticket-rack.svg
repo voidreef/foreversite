@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#efe1b4"/>
+  <g stroke="#614222" stroke-width="3">
+    <rect x="32" y="38" width="575" height="270" fill="#b78958"/>
+    <path d="M32 92h575M32 146h575M32 200h575M32 254h575M147 38v270M262 38v270M377 38v270M492 38v270"/>
+  </g>
+  <g font-family="Courier New,monospace" fill="#2d1c10" font-size="17">
+    <text x="49" y="73">LOW</text><text x="165" y="73">MID</text><text x="279" y="73">HIGH</text><text x="395" y="73">RAIN</text><text x="510" y="73">FOG</text>
+    <text x="51" y="126">03:10</text><text x="166" y="126">06:45</text><text x="279" y="126">09:20</text><text x="395" y="126">12¢</text><text x="510" y="126">ASK</text>
+    <text x="51" y="180">15:05</text><text x="166" y="180">17:40</text><text x="279" y="180">21:11</text><text x="395" y="180">WET</text><text x="510" y="180">BELL</text>
+    <text x="45" y="233">ticket</text><text x="159" y="233">stub</text><text x="274" y="233">string</text><text x="389" y="233">oilskin</text><text x="504" y="233">ledger</text>
+  </g>
+  <path d="M70 327 C170 300 231 344 325 321 S504 308 579 328" fill="none" stroke="#2b6070" stroke-width="8" opacity=".5"/>
+  <text x="70" y="340" font-family="Georgia,serif" font-size="15" fill="#56361c">TIDE TICKETS ARE NOT REFUNDS. THEY ARE PROMISES WITH SALT ON THEM.</text>
+</svg>

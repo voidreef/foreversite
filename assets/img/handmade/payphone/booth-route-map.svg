@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="360" viewBox="0 0 700 360">
+<rect width="700" height="360" fill="#d8c99a"/><g stroke="#3a2d1b" stroke-width="3" fill="none"><path d="M54 285 C135 196 166 232 237 158 S360 109 423 176 557 208 644 84"/><path d="M70 71h210v80h-116v98h-94z"/><path d="M422 44h160v100h-160z"/><path d="M472 198h132v87h-132z"/></g>
+<g fill="#8d2d27"><circle cx="83" cy="257" r="10"/><circle cx="238" cy="158" r="10"/><circle cx="421" cy="176" r="10"/><circle cx="644" cy="84" r="10"/></g>
+<g font-family="monospace" fill="#281d11"><text x="42" y="41" font-size="22">FOUR BOOTH MAINTENANCE WALK</text><text x="98" y="261" font-size="13">A: coin jam</text><text x="251" y="154" font-size="13">B: bulb</text><text x="433" y="180" font-size="13">C: receiver cord</text><text x="504" y="78" font-size="13">D: glass panel</text><text x="72" y="331" font-size="12">route copied from a clipboard with coffee ring at north edge</text></g>
+</svg>

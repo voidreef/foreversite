@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220">
+  <rect width="760" height="220" fill="#47351f"/>
+  <rect x="24" y="46" width="710" height="96" fill="#d6b879" stroke="#20170e" stroke-width="5"/>
+  <g stroke="#21170d" stroke-width="3">
+    <path d="M58 46v96M116 46v96M174 46v96M232 46v96M290 46v96M348 46v96M406 46v96M464 46v96M522 46v96M580 46v96M638 46v96M696 46v96"/>
+    <path d="M87 46v46M145 46v46M203 46v46M261 46v46M319 46v46M377 46v46M435 46v46M493 46v46M551 46v46M609 46v46M667 46v46"/>
+  </g>
+  <g font-family="Courier New,monospace" font-size="19" fill="#24170b">
+    <text x="51" y="169">0</text><text x="108" y="169">2</text><text x="166" y="169">4</text><text x="224" y="169">6</text><text x="282" y="169">8</text><text x="336" y="169">10</text><text x="394" y="169">12</text><text x="452" y="169">14</text><text x="510" y="169">16</text><text x="568" y="169">18</text><text x="626" y="169">20</text><text x="684" y="169">22</text>
+  </g>
+  <path d="M105 94 C190 40 300 54 392 94 C310 134 190 148 105 94 Z" fill="#6f8f83" stroke="#15241f" stroke-width="4"/>
+  <circle cx="365" cy="88" r="5" fill="#101b17"/><path d="M112 94 l-47 -28 l12 28 l-12 28 z" fill="#5d7e75" stroke="#15241f" stroke-width="4"/>
+  <text x="44" y="28" font-family="Georgia,serif" font-size="22" fill="#f3e0ab">NORTH PIER MEASURE BOARD — wet marks are binding</text>
+</svg>

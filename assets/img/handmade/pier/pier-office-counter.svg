@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260">
+  <rect width="720" height="260" fill="#d8c69b"/>
+  <path d="M18 208 C140 190 230 222 355 199 S560 197 704 211 L704 260 L18 260 Z" fill="#486b72" opacity=".55"/>
+  <rect x="42" y="52" width="632" height="118" fill="#8c6a43" stroke="#2b2118" stroke-width="5"/>
+  <path d="M42 91h632M118 52v118M231 52v118M344 52v118M457 52v118M570 52v118" stroke="#3b2a1a" stroke-width="3" opacity=".65"/>
+  <rect x="80" y="21" width="176" height="48" fill="#eadfb9" stroke="#332312" stroke-width="3" transform="rotate(-2 80 21)"/>
+  <text x="95" y="52" font-family="Courier New,monospace" font-size="22" fill="#362515">PIER OFFICE</text>
+  <rect x="472" y="14" width="134" height="66" fill="#c64933" stroke="#33170f" stroke-width="3" transform="rotate(3 472 14)"/>
+  <text x="492" y="42" font-family="Georgia,serif" font-size="16" fill="#fff0ca">NO CREDIT</text>
+  <text x="489" y="63" font-family="Georgia,serif" font-size="13" fill="#fff0ca">AFTER FOG</text>
+  <circle cx="356" cy="112" r="30" fill="#2d2520"/><circle cx="356" cy="112" r="19" fill="#ebd483"/>
+  <path d="M356 112 l10 -14 M356 112 l-15 8" stroke="#211913" stroke-width="3"/>
+  <text x="280" y="154" font-family="Courier New,monospace" font-size="13" fill="#22160d">counter bell sticks on wet Tuesdays</text>
+  <path d="M0 0h720v260H0z" fill="none" stroke="#372514" stroke-width="8"/>
+</svg>

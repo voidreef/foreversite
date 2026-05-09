@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420" viewBox="0 0 860 420">
+<rect width="860" height="420" fill="#0d140f"/>
+<rect x="28" y="24" width="804" height="308" rx="12" fill="#203126" stroke="#c9dbb7" stroke-width="5"/>
+<rect x="58" y="48" width="744" height="250" fill="#b9d5a8" opacity=".9"/>
+<g stroke="#203126" stroke-width="2" opacity=".55"><path d="M58 95h744M58 142h744M58 189h744M58 236h744"/><path d="M132 48v250M206 48v250M280 48v250M354 48v250M428 48v250M502 48v250M576 48v250M650 48v250M724 48v250"/></g>
+<g fill="#18221b"><rect x="94" y="76" width="180" height="20"/><rect x="310" y="118" width="72" height="18"/><rect x="402" y="118" width="210" height="18"/><rect x="160" y="205" width="446" height="16"/><rect x="198" y="244" width="160" height="16"/></g>
+<circle cx="704" cy="209" r="54" fill="none" stroke="#f4ffe0" stroke-width="12" opacity=".65"/>
+<line x1="746" y1="250" x2="790" y2="294" stroke="#f4ffe0" stroke-width="16" stroke-linecap="round" opacity=".65"/>
+<rect x="80" y="350" width="120" height="34" fill="#2a352d" stroke="#c9dbb7"/><rect x="226" y="350" width="120" height="34" fill="#2a352d" stroke="#c9dbb7"/><rect x="372" y="350" width="120" height="34" fill="#2a352d" stroke="#c9dbb7"/>
+<text x="95" y="373" font-family="Courier New" font-size="16" fill="#b7ff99">FOCUS</text><text x="241" y="373" font-family="Courier New" font-size="16" fill="#b7ff99">DENSITY</text><text x="387" y="373" font-family="Courier New" font-size="16" fill="#b7ff99">CARRIER</text>
+<text x="600" y="374" font-family="Courier New" font-size="18" fill="#d6e8c4">MINOLTA-ISH READER / DRAWER C7</text>
+</svg>

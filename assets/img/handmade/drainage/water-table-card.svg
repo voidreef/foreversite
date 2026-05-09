@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="460" viewBox="0 0 640 460">
+<title>municipal water table index card</title>
+<rect width="640" height="460" fill="#f5edcf"/>
+<g stroke="#9bb2b8" stroke-width="1"><path d="M0 92h640M0 132h640M0 172h640M0 212h640M0 252h640M0 292h640M0 332h640M0 372h640"/></g>
+<path d="M96 0v460" stroke="#d75e4f" stroke-width="2"/>
+<path d="M132 344 C194 310 238 352 286 310 S380 236 436 263 512 270 588 202" fill="none" stroke="#275e73" stroke-width="7"/>
+<path d="M132 344 C194 310 238 352 286 310 S380 236 436 263 512 270 588 202" fill="none" stroke="#f7ffff" stroke-width="2" stroke-dasharray="6 8"/>
+<g font-family="Courier New, monospace" fill="#181511"><text x="38" y="50" font-size="24">BOROUGH WATER TABLE - FIELD CARD 11</text><text x="118" y="116">Jan: basement nail dry</text><text x="118" y="156">Mar: sump speaks after midnight</text><text x="118" y="196">Apr: chalk line lifts 3 in.</text><text x="118" y="236">Jul: table below pipe crown</text><text x="118" y="276">Oct: high after leaf blockage</text><text x="118" y="408" font-size="16">datum: brass tack in school stair, maybe moved</text></g>
+<rect x="446" y="44" width="128" height="50" fill="none" stroke="#933" stroke-width="3" transform="rotate(-5 510 69)"/><text x="510" y="75" text-anchor="middle" fill="#933" font-family="Courier New" font-size="18" transform="rotate(-5 510 69)">DAMP COPY</text>
+</svg>

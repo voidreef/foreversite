@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300" viewBox="0 0 700 300">
+  <rect width="700" height="300" fill="#efe6c8"/>
+  <rect x="26" y="25" width="648" height="246" fill="#fcf7df" stroke="#31261c" stroke-width="5"/>
+  <circle cx="94" cy="89" r="43" fill="#c18b2f" stroke="#443018" stroke-width="5"/>
+  <path d="M58 98 q36 28 72 0" fill="none" stroke="#6a461c" stroke-width="6"/>
+  <text x="164" y="63" font-family="Georgia,serif" font-size="31" fill="#2b2118">FERRY BELL SCHEDULE</text>
+  <g font-family="Courier New,monospace" font-size="18" fill="#211912">
+    <text x="166" y="105">one bell: deckhand seen, ferry possible</text>
+    <text x="166" y="139">two bells: east boat leaving in 12 minutes</text>
+    <text x="166" y="173">three bells: mail sack aboard / ducks clear</text>
+    <text x="166" y="207">long bell: fog route, speak into yellow horn</text>
+    <text x="166" y="241">no bell: tide owns the office until further notice</text>
+  </g>
+  <path d="M53 253 C180 238 257 264 367 247 S555 238 646 254" stroke="#377384" stroke-width="7" fill="none" opacity=".45"/>
+</svg>

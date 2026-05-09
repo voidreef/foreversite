@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 420" role="img" aria-labelledby="t d">
+<title id="t">wall of lost flyers</title><desc id="d">Overlapping torn flyers advertising lost objects: umbrella, negative, stapler, and a cat-shaped stain.</desc>
+<rect width="620" height="420" fill="#c7b487"/>
+<g stroke="#202020" stroke-width="3" font-family="Courier New, monospace" fill="#fffdf0">
+<g transform="rotate(-4 150 170)"><rect x="62" y="55" width="180" height="245"/><text x="88" y="91" font-size="24" fill="#111">LOST:</text><text x="88" y="122" font-size="16" fill="#111">blue umbrella</text><path d="M144 155c42 0 67 22 70 58H78c3-34 27-58 66-58z" fill="none"/><path d="M144 155v91c0 19 37 18 34-5" fill="none"/><text x="85" y="276" font-size="12" fill="#111">answers to weather</text></g>
+<g transform="rotate(3 370 160)"><rect x="285" y="42" width="210" height="272" fill="#f3f3f3"/><text x="313" y="78" font-size="22" fill="#111">MISSING NEGATIVE</text><rect x="330" y="105" width="116" height="92" fill="#111"/><circle cx="388" cy="151" r="24" fill="#eee" opacity=".25"/><text x="320" y="226" font-size="14" fill="#111">contains one birthday</text><text x="320" y="246" font-size="14" fill="#111">and half a dog</text></g>
+<g transform="rotate(-1 450 310)"><rect x="365" y="240" width="175" height="125" fill="#fff7bd"/><text x="385" y="272" font-size="18" fill="#111">FOUND:</text><text x="385" y="298" font-size="15" fill="#111">cat-shaped stain</text><path d="M437 316c20-38 58-8 37 24-17 24-55 6-37-24z" fill="#777" opacity=".35"/></g>
+</g>
+<g fill="#111" opacity=".35"><circle cx="75" cy="58" r="5"/><circle cx="492" cy="47" r="5"/><circle cx="540" cy="241" r="5"/></g>
+</svg>

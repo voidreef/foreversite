@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="440" viewBox="0 0 820 440">
+<title>hand drawn vending service panel plate</title>
+<rect width="820" height="440" fill="#e9dfbd"/>
+<rect x="24" y="24" width="772" height="392" rx="6" fill="#d4c59a" stroke="#35281b" stroke-width="5"/>
+<g font-family="Courier New, monospace" fill="#2b2118">
+<text x="48" y="62" font-size="26" font-weight="bold">MODEL V-13 SERVICE DOOR - INSIDE FACE</text>
+<text x="51" y="92" font-size="13">copied from paper taped behind coin box; scale approximate; stains retained</text>
+</g>
+<g stroke="#3c2b1a" stroke-width="4" fill="none">
+<rect x="62" y="130" width="190" height="230"/>
+<rect x="300" y="116" width="144" height="270"/>
+<rect x="498" y="126" width="230" height="74"/>
+<rect x="510" y="238" width="180" height="118"/>
+<path d="M104 182h100M104 230h100M104 278h100M331 153h82M331 192h82M331 231h82M331 270h82M331 309h82"/>
+<path d="M613 200v38M548 200v38M678 200v38" stroke-dasharray="8 7"/>
+</g>
+<g fill="#594025" font-family="Courier New, monospace" font-size="16">
+<text x="81" y="119">PRICE CAM STACK</text><text x="310" y="105">SELECTION SWITCHES</text><text x="530" y="116">FLUORESCENT BALLAST</text><text x="533" y="230">PRODUCT DRUM WINDOW</text>
+<text x="82" y="384">do not oil nylon dogs</text><text x="509" y="382">crumb tray screws: 3 present, 1 rumor</text>
+</g>
+<g fill="#b43b2d" opacity=".86"><circle cx="232" cy="146" r="8"/><circle cx="423" cy="370" r="8"/><circle cx="713" cy="344" r="8"/></g>
+<path d="M40 410c120-18 206 15 324-7 98-18 186 13 412-11" stroke="#7a6a4b" stroke-width="3" fill="none" opacity=".45"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="220" viewBox="0 0 640 220">
+  <rect width="640" height="220" fill="#efe2c6"/>
+  <g stroke="#3a3027" stroke-width="1">
+    <rect x="32" y="35" width="96" height="150" fill="#f2ead8"/>
+    <rect x="128" y="35" width="96" height="150" fill="#d8c6a6"/>
+    <rect x="224" y="35" width="96" height="150" fill="#ac9270"/>
+    <rect x="320" y="35" width="96" height="150" fill="#7d6250"/>
+    <rect x="416" y="35" width="96" height="150" fill="#4d3e38"/>
+    <rect x="512" y="35" width="96" height="150" fill="#211d1b"/>
+  </g>
+  <g font-family="Courier New, monospace" font-size="16" fill="#271b15">
+    <text x="52" y="202">4s</text><text x="148" y="202">8s</text><text x="244" y="202">12s</text><text x="338" y="202">16s</text><text x="434" y="202">20s</text><text x="530" y="202">24s</text>
+    <text x="31" y="23">f/8, grade 2½, enlarger head 31cm, paper strip #3</text>
+  </g>
+</svg>
