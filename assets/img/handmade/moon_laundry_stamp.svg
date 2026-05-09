@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+<rect width="300" height="300" fill="#f8f8ff"/>
+<circle cx="150" cy="150" r="128" fill="none" stroke="#111" stroke-width="8" stroke-dasharray="12 8"/>
+<path d="M177 52C126 77 102 124 116 175c13 48 55 75 101 76-22 24-58 34-93 23-59-18-92-81-74-140 17-56 72-90 127-82Z" fill="#d7d7e8" stroke="#111" stroke-width="5"/>
+<text x="150" y="127" font-family="Georgia" font-size="24" text-anchor="middle" fill="#111">LAUNDRY</text>
+<text x="150" y="158" font-family="Georgia" font-size="24" text-anchor="middle" fill="#111">MOON</text>
+<text x="150" y="202" font-family="monospace" font-size="13" text-anchor="middle" fill="#111">APPROVED FOR TUESDAYS</text>
+<path d="M83 230c44 14 89 14 134 0" stroke="#111" stroke-width="4" fill="none"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="260" viewBox="0 0 500 260">
+<rect width="500" height="260" fill="#f4e400"/>
+<path d="M0 0h500v260H0z" fill="none" stroke="#111" stroke-width="18"/>
+<g fill="#111"><path d="M40 0h38L0 78V40zM126 0h38L0 164v-38zM212 0h38L0 250v-38zM298 0h38L76 260H38zM384 0h38L162 260h-38zM470 0h30v8L248 260h-38zM500 92v38L370 260h-38zM500 178v38l-44 44h-38z" opacity=".18"/></g>
+<ellipse cx="250" cy="118" rx="132" ry="58" fill="#fff" stroke="#111" stroke-width="9"/>
+<circle cx="250" cy="118" r="42" fill="#111"/>
+<circle cx="236" cy="101" r="10" fill="#f4e400"/>
+<text x="250" y="218" font-family="Impact, sans-serif" font-size="44" text-anchor="middle" fill="#111">CAUTION: HALLWAY WATCHES</text>
+</svg>
