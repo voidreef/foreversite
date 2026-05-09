@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#d8cfaa"/>
+  <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .12"/></feComponentTransfer></filter>
+  <rect width="900" height="520" filter="url(#grain)" opacity=".45"/>
+  <rect x="25" y="22" width="850" height="476" fill="none" stroke="#272016" stroke-width="6"/>
+  <rect x="44" y="42" width="812" height="438" fill="none" stroke="#7b1d12" stroke-width="2" stroke-dasharray="12 8"/>
+  <text x="64" y="86" font-family="Courier New, monospace" font-size="30" fill="#17120d">SIGNAL CABINET / PLATE 4</text>
+  <text x="66" y="114" font-family="Courier New, monospace" font-size="14" fill="#17120d">Basement exchange material recovered from a screw-top coffee tin. Not to scale except emotionally.</text>
+  <g transform="translate(74 150)">
+    <rect width="238" height="260" fill="#efe6c7" stroke="#17120d" stroke-width="3"/>
+    <circle cx="119" cy="130" r="92" fill="#202833" stroke="#17120d" stroke-width="8"/>
+    <circle cx="119" cy="130" r="31" fill="#d8cfaa" stroke="#111" stroke-width="3"/>
+    <g fill="#f2ead1" stroke="#111" stroke-width="2" font-family="Courier New" font-size="16" text-anchor="middle">
+      <circle cx="119" cy="52" r="16"/><text x="119" y="57">0</text>
+      <circle cx="169" cy="70" r="16"/><text x="169" y="75">1</text>
+      <circle cx="196" cy="116" r="16"/><text x="196" y="121">2</text>
+      <circle cx="187" cy="169" r="16"/><text x="187" y="174">3</text>
+      <circle cx="148" cy="205" r="16"/><text x="148" y="210">4</text>
+      <circle cx="95" cy="207" r="16"/><text x="95" y="212">5</text>
+      <circle cx="54" cy="173" r="16"/><text x="54" y="178">6</text>
+      <circle cx="42" cy="121" r="16"/><text x="42" y="126">7</text>
+      <circle cx="68" cy="74" r="16"/><text x="68" y="79">8</text>
+    </g>
+    <text x="18" y="246" font-family="Courier New" font-size="13" fill="#7b1d12">ROTARY MAP: click dial</text>
+  </g>
+  <g transform="translate(350 145)">
+    <rect width="230" height="126" fill="#b9c7bf" stroke="#17120d" stroke-width="3"/>
+    <text x="16" y="28" font-family="Courier New" font-size="16" fill="#17120d">CLOTH WIRING SPLICE</text>
+    <path d="M22 62 C80 20, 148 105, 208 48" fill="none" stroke="#722" stroke-width="7"/>
+    <path d="M22 86 C78 122, 158 22, 212 94" fill="none" stroke="#182b63" stroke-width="7"/>
+    <g stroke="#c49b31" stroke-width="8"><line x1="88" y1="36" x2="130" y2="116"/><line x1="121" y1="34" x2="86" y2="112"/></g>
+    <text x="16" y="112" font-family="Courier New" font-size="12">twisted pair, paper tag, no neutral</text>
+  </g>
+  <g transform="translate(626 132)">
+    <rect width="185" height="236" fill="#f2ead1" stroke="#17120d" stroke-width="3"/>
+    <path d="M38 158 C20 90,50 30,92 28 C136 30,164 90,146 158 Z" fill="#dbe8f1" stroke="#17120d" stroke-width="3"/>
+    <rect x="54" y="158" width="78" height="42" fill="#1f1b15"/>
+    <path d="M62 66 C84 82,112 80,128 60" fill="none" stroke="#344" stroke-width="4"/>
+    <line x1="92" y1="42" x2="92" y2="160" stroke="#344" stroke-width="3"/>
+    <text x="20" y="222" font-family="Courier New" font-size="13" fill="#7b1d12">WEATHER GLASS CARD</text>
+  </g>
+  <g font-family="Courier New" font-size="13" fill="#17120d">
+    <text x="350" y="315">index tabs found:</text>
+    <text x="350" y="337">• exchange names before all-number dialing</text>
+    <text x="350" y="359">• BX cable / knob-and-tube field notes</text>
+    <text x="350" y="381">• storm glass ingredients + safer substitutes</text>
+    <text x="350" y="428">red grease pencil: "IF IT RINGS WITHOUT A CALL, LOG BAROMETER FIRST"</text>
+  </g>
+  <path d="M34 474 L866 474" stroke="#17120d" stroke-width="2"/>
+  <text x="64" y="462" font-family="Courier New" font-size="12" fill="#17120d">FOREVERSITE ARCHIVAL SCAN // 600dpi fiction, handmade SVG, public-domain texture simulated</text>
+</svg>

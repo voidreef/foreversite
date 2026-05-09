@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420">
+<rect width="700" height="420" fill="#f1e3bd"/><rect x="18" y="18" width="664" height="384" fill="none" stroke="#18130c" stroke-width="4"/>
+<text x="42" y="58" font-family="Courier New" font-size="24" fill="#18130c">LOCAL EXCHANGE DECODER CARD</text>
+<text x="42" y="84" font-family="Courier New" font-size="13">Two-letter telephone exchange names were dialed as numbers: KLondike 5 = 555.</text>
+<g transform="translate(42 115)" font-family="Courier New" font-size="16">
+<rect width="230" height="230" rx="115" fill="#27313a" stroke="#111" stroke-width="8"/>
+<circle cx="115" cy="115" r="34" fill="#f1e3bd" stroke="#111" stroke-width="3"/>
+<g fill="#fff8dc" stroke="#111" stroke-width="2" text-anchor="middle">
+<circle cx="115" cy="32" r="19"/><text x="115" y="37">1</text>
+<circle cx="167" cy="50" r="19"/><text x="167" y="55">2 ABC</text>
+<circle cx="200" cy="95" r="19"/><text x="200" y="100">3 DEF</text>
+<circle cx="199" cy="148" r="19"/><text x="199" y="153">4 GHI</text>
+<circle cx="166" cy="190" r="19"/><text x="166" y="195">5 JKL</text>
+<circle cx="115" cy="207" r="19"/><text x="115" y="212">6 MNO</text>
+<circle cx="65" cy="190" r="19"/><text x="65" y="195">7 PRS</text>
+<circle cx="32" cy="148" r="19"/><text x="32" y="153">8 TUV</text>
+<circle cx="31" cy="95" r="19"/><text x="31" y="100">9 WXY</text>
+<circle cx="63" cy="50" r="19"/><text x="63" y="55">0 OPR</text>
+</g></g>
+<g transform="translate(320 116)" font-family="Courier New" font-size="15" fill="#18130c">
+<text y="0" font-weight="bold">FIELD NOTES</text>
+<text y="32">• 2L-5N format: EXchange + five digits.</text>
+<text y="56">• Pennsylvania 6-5000 = PE6-5000 = 736-5000.</text>
+<text y="80">• Operators preferred names that sounded distinct.</text>
+<text y="104">• Q and Z were often omitted on North American dials.</text>
+<text y="128">• "KLondike 5" became the fake 555 prefix in films.</text>
+<text y="166" fill="#7b1d12">Basement sample:</text>
+<text y="190">BRass 4-1717 → 274-1717</text>
+<text y="214">FOg 2-0610 → 362-0610</text>
+<text y="238">BUcket 8-1200 → 282-1200</text>
+</g>
+<text x="42" y="382" font-family="Courier New" font-size="12" fill="#18130c">For actual history: Bell System 2-letter/5-number exchange naming, common through mid-20th-century North America.</text>
+</svg>
